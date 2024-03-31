@@ -56,7 +56,6 @@ a.event-main-link {
   color: black;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  border-radius: 20px;
 }
 a.event-main-link img {
   height: 500px;
@@ -76,7 +75,6 @@ a.event-link {
   padding: 1.5rem;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  border-radius: 40px;
 }
 a.event-link:hover {
   color: black;
@@ -87,7 +85,6 @@ a.event-link img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 20px;
 }
 
 a.see-more {
@@ -123,7 +120,6 @@ a.see-more.btn-big {
 }
 .h-scrolling-block > .row {
   min-width: 1200px;
-  border-radius: 20px;
 }
 .h-scrolling-block img {
   height: 240px;

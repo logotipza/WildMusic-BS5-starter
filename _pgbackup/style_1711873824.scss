@@ -52,7 +52,6 @@ a.event-main-link {
     background: white;
     color: black;
     transition: all 0.3s ease;
-    border-radius: 20px;
 
     img {
         height: 500px;
@@ -71,7 +70,6 @@ a.event-link {
     color: white;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border-radius: 40px;
 
     &:hover {
         color: black;
@@ -82,7 +80,6 @@ a.event-link {
         height: 350px;
         width: 100%;
         object-fit: cover;
-        border-radius: 20px;
     }
 }
 
@@ -119,7 +116,6 @@ a.see-more {
 
     >.row {
         min-width: 1200px;
-        border-radius: 20px;
     }
 
     img {
